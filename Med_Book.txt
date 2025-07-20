@@ -1,5 +1,5 @@
-Revisão 9
-dom;16:22;Daflon;10mg
+Revisão 10
+dom;20:45;Daflon;10mg
 dom;16:23;Dipirona;20 gotas
 dom;16:24;Razapina;1cp
 dom;16:25;Colirio;1 gota
