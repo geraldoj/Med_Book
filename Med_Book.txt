@@ -1,4 +1,4 @@
-dom;16:30;Paracetamol;500mg
+dom;09:56;Paracetamol;500mg
 seg;16:30;Paracetamol;500mg
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
