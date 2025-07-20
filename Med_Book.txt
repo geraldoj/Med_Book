@@ -1,5 +1,5 @@
-dom;14:46;Daflon;10mg
-dom;14:47;Dipirona;20 gotas
+dom;15:10;Daflon;10mg
+dom;15:11;Dipirona;20 gotas
 dom;12:54;Razapina;1cp
 dom;12:55;Cachaça;1 copo
 dom;12:56;Cataflam;500mg
