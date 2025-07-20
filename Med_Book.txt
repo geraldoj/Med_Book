@@ -1,5 +1,5 @@
-dom;12:52;Omeprazol;10mg
-dom;12:53;Aspirina;100mg
+dom;13:01;Daflon;10mg
+dom;13:03;Dipirona;20 gotas
 dom;12:54;Razapina;1cp
 dom;12:55;Cachaça;1 copo
 dom;12:56;Cataflam;500mg
