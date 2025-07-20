@@ -1,9 +1,9 @@
 Revisão 3
-dom;15:10;Daflon;10mg
-dom;15:11;Dipirona;20 gotas
-dom;12:54;Razapina;1cp
-dom;12:55;Cachaça;1 copo
-dom;12:56;Cataflam;500mg
+dom;15:45;Daflon;10mg
+dom;15:46;Dipirona;20 gotas
+dom;15:47;Razapina;1cp
+dom;15:48;Cachaça;1 copo
+dom;15:49;Cataflam;500mg
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
 qui;16:30;Paracetamol;500mg
