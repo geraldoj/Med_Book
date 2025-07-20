@@ -1,8 +1,8 @@
-Revisão 7
+Revisão 8
 dom;16:05;Daflon;10mg
 dom;16:06;Dipirona;20 gotas
 dom;16:07;Razapina;1cp
-dom;16:08;Cachaça;1 copo
+dom;16:08;Colirio;1 gota
 dom;16:09;Cataflam;500mg
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
