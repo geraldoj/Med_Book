@@ -1,7 +1,7 @@
-dom;10:25;Omeprazol;20mg
-dom;10:28;Dipirona;1g
-dom;10:31;Vitamina D;1000UI
-dom;10:32;Paracetamol;500mg
+dom;10:44;Omeprazol;20mg
+dom;10:45;Dipirona;1g
+dom;10:47;Vitamina D;1000UI
+dom;10:48;Paracetamol;500mg
 seg;16:30;Paracetamol;500mg
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
