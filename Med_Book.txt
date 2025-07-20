@@ -1,8 +1,8 @@
-dom;11:43;Copidogrel;40mg
-dom;11:44;Aspirina;100mg
-dom;11:45;Cachaça;1copo
-dom;11:46;Paracetamol;500mg
-dom;11:47;Cataflam;500mg
+dom;11:46;Copidogrel;40mg
+dom;11:47;Aspirina;100mg
+dom;11:48;Cachaça;1copo
+dom;11:49;Paracetamol;500mg
+dom;11:50;Cataflam;500mg
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
 qui;16:30;Paracetamol;500mg
