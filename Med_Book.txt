@@ -3,7 +3,7 @@ dom;20:45;Daflon;10mg
 dom;16:23;Dipirona;20 gotas
 dom;16:24;Razapina;1cp
 dom;16:25;Colirio;1 gota
-seg;13:30;Cuidar de Bart;Sempre
+seg;13:45;Cuidar de Bart;Sempre
 ter;16:30;Paracetamol;500mg
 qua;16:30;Paracetamol;500mg
 qui;16:30;Paracetamol;500mg
