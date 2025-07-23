@@ -1,11 +1,11 @@
-Revisão 17
+Revisão 18
 dom;20:45;Daflon;10mg
 dom;16:23;Dipirona;20 gotas
 dom;16:24;Razapina;1cp
 dom;16:25;Colirio;1 gota
 seg;13:45;Aspirina;1 cp
-ter;8:55;Paracetamol;500mg
-qua;16:30;Paracetamol;500mg
+ter;08:55;Paracetamol;500mg
+qua;06:45;Paracetamol;500mg
 qui;16:30;Paracetamol;500mg
 sex;16:30;Paracetamol;500mg
 sab;19:24;Paracetamol;500mg
