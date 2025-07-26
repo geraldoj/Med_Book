@@ -8,4 +8,4 @@ ter;08:55;Paracetamol;500mg
 qua;20:15;Paracetamol;500mg
 qui;13:10;Alegra;500mg
 sex;16:30;Paracetamol;500mg
-sab;08:39;Paracetamol;500mg
+sab;08:41;Paracetamol;500mg
