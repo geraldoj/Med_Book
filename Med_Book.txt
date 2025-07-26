@@ -1,4 +1,4 @@
-Revisão 20
+Revisão 21
 dom;20:45;Daflon;10mg
 dom;16:23;Dipirona;20 gotas
 dom;16:24;Razapina;1cp
@@ -8,4 +8,4 @@ ter;08:55;Paracetamol;500mg
 qua;20:15;Paracetamol;500mg
 qui;13:10;Alegra;500mg
 sex;16:30;Paracetamol;500mg
-sab;19:24;Paracetamol;500mg
+sab;08:33;Paracetamol;500mg
