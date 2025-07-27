@@ -1,7 +1,7 @@
-Revisão 30
-dom;12:48;Daflon;10mg
-dom;16:23;Dipirona;20 gotas
-dom;16:24;Razapina;1cp
+Revisão 31
+dom;13:43;Daflon;10mg
+dom;13:45;Dipirona;20 gotas
+dom;13:47;Razapina;1cp
 dom;16:25;Colirio;1 gota
 seg;13:45;Aspirina;1 cp
 ter;08:55;Paracetamol;500mg
