@@ -7,5 +7,5 @@ seg;13:45;Aspirina;1 cp
 ter;21:20;Paracetamol;500mg
 qua;20:15;Paracetamol;500mg
 qui;13:10;Alegra;500mg
-sex;05:55;Paracetamol;500mg
+sex;06:35;Paracetamol;500mg
 sab;14:53;Paracetamol;500mg
